@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005862510942",
+    "project_id": "adapp-9112b",
+    "storage_bucket": "adapp-9112b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005862510942:android:45e6a34e378f0650886fcf",
+        "android_client_info": {
+          "package_name": "com.adapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005862510942-3nogm0niv068seebko1kb16mcvibr2t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJ1vt7lwtk5czRXSGdrnaOeGsI22Qz14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005862510942-3nogm0niv068seebko1kb16mcvibr2t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
