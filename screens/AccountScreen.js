@@ -31,7 +31,6 @@ const AccountScreen = () => {
                     <Card.Cover source={{ uri: item.image }} />
                     <Card.Actions>
                         <Button icon="cart">{item.price}</Button>
-                        <Button icon="delete">Xoá</Button>
                     </Card.Actions>
             </Card>
         )
